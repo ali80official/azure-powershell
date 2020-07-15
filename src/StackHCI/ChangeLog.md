@@ -19,5 +19,8 @@
 -->
 ## Upcoming Release
 
-## Version 1.0.0
-* Public Preview of `Az.StackHCI` module
+## Version 0.1.1
+* Add `Core` to `CompatiblePSEditions`.
+
+## Version 0.1.0
+* Public Preview of `Az.StackHCI` module.
