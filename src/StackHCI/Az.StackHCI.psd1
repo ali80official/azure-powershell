@@ -27,22 +27,22 @@ Author = 'Microsoft Corporation'
 CompanyName = 'Microsoft Corporation'
 
 # Copyright statement for this module
-Copyright = '(c) 2020 Microsoft Corporation. All rights reserved.'
+Copyright = 'Microsoft Corporation. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'PowerShell module for managing Azure Stack HCI'
+Description = 'Microsoft Azure PowerShell: ImageBuilder cmdlets'
 
-# Minimum version of the Windows PowerShell engine required by this module
-# PowerShellVersion = ''
+# Minimum version of the PowerShell engine required by this module
+PowerShellVersion = '5.1'
 
-# Name of the Windows PowerShell host required by this module
+# Name of the PowerShell host required by this module
 # PowerShellHostName = ''
 
-# Minimum version of the Windows PowerShell host required by this module
+# Minimum version of the PowerShell host required by this module
 # PowerShellHostVersion = ''
 
 # Minimum version of Microsoft .NET Framework required by this module. This prerequisite is valid for the PowerShell Desktop edition only.
-# DotNetFrameworkVersion = ''
+DotNetFrameworkVersion = '4.7.2'
 
 # Minimum version of the common language runtime (CLR) required by this module. This prerequisite is valid for the PowerShell Desktop edition only.
 # CLRVersion = ''
